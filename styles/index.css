@@ -1,0 +1,14 @@
+body {
+    background-color: #E5E5E5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.diamond-conatiner {
+    min-height: 500px;
+    width: 100%;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+}
